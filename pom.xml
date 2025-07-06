@@ -5,7 +5,7 @@
 	<groupId>com.kk</groupId>
 	<artifactId>maven-web-application-kkfunda</artifactId>
 	<packaging>war</packaging>
-	<version>1.0.0</version>
+	<version>1.0.0-SNAPSHOT</version>
 	
 	<name>maven-web-application</name>
 
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://3.81.224.123:8010/repository/jio-release-repo/</url>
+	      <url>http://13.201.125.244:8081/repository/web-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://3.81.224.123:8010/repository/jio-snapshot-repo/</url>
+	      <url>http://13.201.125.244:8081/repository/web-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
