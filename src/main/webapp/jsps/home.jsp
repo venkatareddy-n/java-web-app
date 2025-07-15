@@ -92,8 +92,8 @@
 </head>
 <body>
 
-    <h1 class="page-title">Welcome to KK DevOps</h1>
-    <h1 class="sub-title">KK FUNDA</h1>
+    <h1 class="page-title">Welcome to Venkat DevOps</h1>
+    <h1 class="sub-title">Venkat Devops Training</h1>
     <hr>
 
     <div class="info-section">
